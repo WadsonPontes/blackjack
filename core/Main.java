@@ -1,7 +1,7 @@
 /*
 * Author: Wadson Pontes
-* Date: 2019/05/17
-* Version: 1.0
+* Date: 2019/05/19
+* Version: 4.0
 */
 package core;
 
@@ -86,7 +86,7 @@ public class Main {
         
         System.out.println("(1) English");
         System.out.println("(2) Português");
-        // System.out.println("(3) Español");
+        System.out.println("(3) Español");
         // System.out.println("(4) Français");
         // System.out.println("(5) Italiano");
         // System.out.println("(6) Deutsch");

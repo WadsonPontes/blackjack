@@ -1,7 +1,7 @@
 /*
 * Author: Wadson Pontes
-* Date: 2019/05/18
-* Version: 1.0
+* Date: 2019/05/19
+* Version: 4.0
 */
 package tools;
 
@@ -23,7 +23,7 @@ public class Lang {
                 lang = new Portuguese();
                 break;
             case 3:
-                lang = new English();
+                lang = new Spanish();
                 break;
             case 4:
                 lang = new English();

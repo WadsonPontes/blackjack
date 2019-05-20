@@ -1,6 +1,9 @@
 # blackjack
 Console game that simulates a blackjack game.
 
+Version: 4.0
+Date: 2019/05/19
+
 Levels of difficulty:
 <ul>
   <li>Easy</li>
@@ -12,4 +15,5 @@ Currently available in:
 <ul>
   <li>English</li>
   <li>Portuguese</li>
+  <li>Spanish</li>
 </ul>

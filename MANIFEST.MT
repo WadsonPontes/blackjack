@@ -1,4 +1,4 @@
-Manifest-Version: 3.0
+Manifest-Version: 4.0
 Created-By: Wadson Pontes
 Main-Class: core.Main
 
